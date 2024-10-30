@@ -9,7 +9,7 @@ i have attached one python file where i build a model using Prophet. Prophet is 
 ==Help to access congested roads
 ==Electric Bikes can reduce delay
 
-3) Hire Trained and Proficient Diver
+3) Hire Trained and Proficient Driver
 ==Train Driver according to Traffic Congestion Situation
 ==It Should be physically fit.
 ==Offer drivers extra pay for taking alternate, less congested routes that may slightly extend their distance but reduce overall delivery time in traffic.
